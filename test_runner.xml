@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="The Fork Task" verbose="1">
+    <listeners>
+        <listener class-name="com.theFork.tests.AnnotationTransformer" />
+    </listeners>
+    <test name="thefork">
+        <classes>
+            <class name="com.theFork.tests.Test1"></class>
+            <class name="com.theFork.tests.Test2"></class>
+        </classes>
+    </test>
+</suite>

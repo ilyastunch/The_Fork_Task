@@ -1,0 +1,3 @@
+2022-10-08 14:14:22,112 INFO  [Log] I add the previous cookies to handle reCAPTCHA 
+2022-10-08 14:14:22,290 INFO  [Log] I navigate to https://www.thefork.com/ 
+2022-10-08 14:14:23,150 INFO  [Log] I login to application 

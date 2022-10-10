@@ -1,0 +1,26 @@
+tf_abtests_freshness;true;www.thefork.com;/;Mon Oct 10 10:29:51 EET 2022;false
+ab.storage.sessionId.1a8938ab-539b-458e-b4a2-a31424c527cd;%7B%22g%22%3A%2205ce0e9c-ba3f-b7b4-6631-f9b3293a41ea%22%2C%22e%22%3A1665385200204%2C%22c%22%3A1665383400184%2C%22l%22%3A1665383400204%7D;.thefork.com;/;Tue Nov 14 09:30:00 EET 2023;false
+_tt_enable_cookie;1;.thefork.com;/;Sat Nov 04 09:30:00 EET 2023;false
+_evidon_consent_cookie;{"consent_date":"2022-10-10T06:29:56.508Z","consent_type":1};www.thefork.com;/;Fri Nov 10 09:29:56 EET 2023;false
+tf_evidon_consent;{%22advertising%22:true%2C%22analytics%20&%20customisation%22:true};www.thefork.com;/;null;true
+_gat_UA-153529018-5;1;.thefork.com;/;Mon Oct 10 09:31:00 EET 2022;false
+thefork_geo_redirected_v3;false;www.thefork.com;/;Tue Oct 10 09:30:05 EET 2023;false
+thefork_geo_lastseen;1665383407;www.thefork.com;/;Mon Oct 10 09:35:07 EET 2022;false
+_fbp;fb.1.1665383400324.297897250;.thefork.com;/;Sun Jan 08 09:30:05 EET 2023;false
+_ttp;60b1c298-c1f1-4310-b428-801748ef80b2;.thefork.com;/;Sat Nov 04 09:30:00 EET 2023;false
+trackingId;a9033d39-360f-4a2b-90dd-783072363138;www.thefork.com;/;null;true
+CC;15102-e75;www.thefork.com;/;Wed Oct 12 09:29:53 EET 2022;true
+tf_ab_test;photos_in_reviews%3Din;www.thefork.com;/;Wed Nov 09 09:29:51 EET 2022;false
+tf_session;session-Qnw76jIn9YjzVKZqpTcGT;www.thefork.com;/;null;true
+_dc_gtm_UA-153529018-5;1;.thefork.com;/;Mon Oct 10 09:31:00 EET 2022;false
+ab.storage.deviceId.1a8938ab-539b-458e-b4a2-a31424c527cd;%7B%22g%22%3A%2212e11be1-d5cb-6a98-a92d-a0dc95b555d2%22%2C%22c%22%3A1665383399033%2C%22l%22%3A1665383400185%7D;.thefork.com;/;Tue Nov 14 09:30:00 EET 2023;false
+datadome;O8jEbGXcT59WBL.EaEPXv0V4ukRaUw.qCrFyT.qiwO4AGY0bvld0mremQh0SIqZy3HNFoPJeqH-6-lJb7ZFB6_Sg4ccBsV57Mn1VTYeb3qH.eGd1d2zz5FP_gJStKho;.thefork.com;/;Tue Oct 10 09:30:03 EET 2023;true
+_ga_7NBMPFZNBS;GS1.1.1665383399.1.1.1665383405.54.0.0;.thefork.com;/;Tue Nov 14 09:30:05 EET 2023;false
+tf_visit;true;www.thefork.com;/;Mon Oct 10 10:00:03 EET 2022;true
+ab.storage.userId.1a8938ab-539b-458e-b4a2-a31424c527cd;%7B%22g%22%3A%227e981002-d4b1-4cbb-b3ea-afcb02173952%22%2C%22c%22%3A1665383400183%2C%22l%22%3A1665383400185%7D;.thefork.com;/;Tue Nov 14 09:30:00 EET 2023;false
+_gid;GA1.2.180443504.1665383401;.thefork.com;/;Tue Oct 11 09:30:05 EET 2022;false
+connected;true;www.thefork.com;/;Tue Oct 10 09:30:01 EET 2023;true
+_ga;GA1.2.1786673366.1665383399;.thefork.com;/;Tue Nov 14 09:30:05 EET 2023;false
+_gcl_au;1.1.1666610060.1665383398;.thefork.com;/;Sun Jan 08 09:29:58 EET 2023;false
+source_code;2022-10-10T06:29:53||direct|15102-e75|;www.thefork.com;/;Wed Oct 12 09:29:53 EET 2022;true
+G_ENABLED_IDPS;google;.www.thefork.com;/;Tue Nov 14 09:29:59 EET 2023;false
